@@ -1,7 +1,8 @@
 ![I am Student.](https://media.licdn.com/dms/image/v2/D4D16AQHE4hRV6Stl6Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1700018028687?e=2147483647&v=beta&t=CeOsm9eUzSkj0OeUtXCz949gW23xUzmMJfrZKeGk0wY)
+ 
 
-
-### Hi there 👋, Ajgar Ali
+### Hi there 👋, 
+### This is Ajgar Ali
 #### I am Student.
 
 love to learn new skills. Now learning HTML. Learning is my first priority. Thank You.
